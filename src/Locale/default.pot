@@ -1,0 +1,684 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-06-07 14:06+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/GaleriasController.php:61;96
+msgid "The galeria has been saved."
+msgstr "Galeria salva com sucesso."
+
+#: Controller/GaleriasController.php:76;100
+msgid "The galeria could not be saved. Please, try again."
+msgstr "Erro ao salvar a galeria. Tente novamente mais tarde."
+
+#: Controller/GaleriasController.php:121
+msgid "The galeria has been deleted."
+msgstr "Galeria deletada com sucesso."
+
+#: Controller/GaleriasController.php:137
+msgid "The galeria could not be deleted. Please, try again."
+msgstr "Erro ao deletar a galeria. Por favor, tente novamente."
+
+#: Controller/ImagesController.php:89
+msgid "The image has been saved."
+msgstr "Imagem salva com sucesso."
+
+#: Controller/ImagesController.php:93
+#: Controller/Component/UploadComponent.php:44
+msgid "The image could not be saved. Please, try again."
+msgstr "Erro ao salvar a imagem. Por favor, tente novamente."
+
+#: Controller/ImagesController.php:127
+msgid "The image has been deleted."
+msgstr "Imagem deletada com sucesso."
+
+#: Controller/ImagesController.php:129
+msgid "The image could not be deleted. Please, try again."
+msgstr "Erro ao deletar a imagem. Por favor, tente novamente."
+
+#: Controller/UsersController.php:55;79
+msgid "The user has been saved."
+msgstr "Usuário deletado com sucesso."
+
+#: Controller/UsersController.php:59;83
+msgid "The user could not be saved. Please, try again."
+msgstr "Erro ao salvar o usuário. Por favor, tente novamente."
+
+#: Controller/UsersController.php:100
+msgid "The user has been deleted."
+msgstr "Usuário deletado com sucesso."
+
+#: Controller/UsersController.php:102
+msgid "The user could not be deleted. Please, try again."
+msgstr "Erro ao deletar o usuário. Por favor, tente novamente."
+
+#: Controller/Admin/CategoriesController.php:55;80
+#: Controller/Admin/ImagesVehicleController.php:58;84
+#: Controller/Admin/NewsController.php:55;80
+#: Controller/Admin/UsersController.php:54;77
+#: Controller/Admin/VehiclesController.php:58;84
+msgid "The {0} has been saved."
+msgstr "{0} salvo com sucesso."
+
+#: Controller/Admin/CategoriesController.php:58;83
+#: Controller/Admin/ImagesVehicleController.php:61;87
+#: Controller/Admin/NewsController.php:58;83
+#: Controller/Admin/UsersController.php:57;80
+#: Controller/Admin/VehiclesController.php:61;87
+msgid "The {0} could not be saved. Please, try again."
+msgstr "{0} não pode ser salvo. Por favor, tente novamente."
+
+#: Controller/Admin/CategoriesController.php:102
+#: Controller/Admin/ImagesVehicleController.php:107
+#: Controller/Admin/NewsController.php:102
+#: Controller/Admin/UsersController.php:100
+#: Controller/Admin/VehiclesController.php:107
+msgid "The {0} has been deleted."
+msgstr "{0} deletado com sucesso."
+
+#: Controller/Admin/CategoriesController.php:104
+#: Controller/Admin/ImagesVehicleController.php:109
+#: Controller/Admin/NewsController.php:104
+#: Controller/Admin/UsersController.php:102
+#: Controller/Admin/VehiclesController.php:109
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "{0} não pode ser deletado. Por favor, tente novamente."
+
+#: Controller/Admin/NoticiasController.php:55;79
+msgid "The noticia has been saved."
+msgstr "Noticia salva com sucesso."
+
+#: Controller/Admin/NoticiasController.php:59;83
+msgid "The noticia could not be saved. Please, try again."
+msgstr "Erro ao salvar a noticia. Por favor, tente novamente."
+
+#: Controller/Admin/NoticiasController.php:100
+msgid "The noticia has been deleted."
+msgstr "Noticia deletada com sucesso."
+
+#: Controller/Admin/NoticiasController.php:102
+msgid "The noticia could not be deleted. Please, try again."
+msgstr "Erro ao deletar a noticia. Por favor, tente novamente."
+
+#: Controller/Admin/RolesController.php:55;79
+msgid "The role has been saved."
+msgstr "Regra salva com sucesso"
+
+#: Controller/Admin/RolesController.php:59;83
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/RolesController.php:100
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/Admin/RolesController.php:102
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Admin/Categories/add.ctp:4
+#: Template/Admin/ImagesVehicle/add.ctp:4
+#: Template/Admin/News/add.ctp:4
+#: Template/Admin/Users/add.ctp:4
+#: Template/Admin/Vehicles/add.ctp:4
+msgid "Add"
+msgstr "Cadastrar"
+
+#: Template/Admin/Categories/add.ctp:8
+#: Template/Admin/Categories/edit.ctp:8
+#: Template/Admin/Categories/view.ctp:7
+#: Template/Admin/ImagesVehicle/add.ctp:8
+#: Template/Admin/ImagesVehicle/edit.ctp:8
+#: Template/Admin/ImagesVehicle/view.ctp:7
+#: Template/Admin/News/add.ctp:8
+#: Template/Admin/News/edit.ctp:8
+#: Template/Admin/News/view.ctp:7
+#: Template/Admin/Users/add.ctp:8
+#: Template/Admin/Users/edit.ctp:8
+#: Template/Admin/Users/view.ctp:7
+#: Template/Admin/Vehicles/add.ctp:8
+#: Template/Admin/Vehicles/edit.ctp:8
+#: Template/Admin/Vehicles/view.ctp:7
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Voltar"
+
+#: Template/Admin/Categories/add.ctp:21
+#: Template/Admin/Categories/edit.ctp:21
+#: Template/Admin/ImagesVehicle/add.ctp:21
+#: Template/Admin/ImagesVehicle/edit.ctp:21
+#: Template/Admin/News/add.ctp:21
+#: Template/Admin/News/edit.ctp:21
+#: Template/Admin/Users/add.ctp:21
+#: Template/Admin/Users/edit.ctp:21
+#: Template/Admin/Vehicles/add.ctp:21
+#: Template/Admin/Vehicles/edit.ctp:21
+msgid "Form"
+msgstr "Formulário"
+
+#: Template/Admin/Categories/add.ctp:33
+#: Template/Admin/Categories/edit.ctp:33
+#: Template/Admin/ImagesVehicle/add.ctp:34
+#: Template/Admin/ImagesVehicle/edit.ctp:34
+#: Template/Admin/News/add.ctp:35
+#: Template/Admin/News/edit.ctp:35
+#: Template/Admin/Users/add.ctp:36
+#: Template/Admin/Users/edit.ctp:36
+#: Template/Admin/Vehicles/add.ctp:39
+#: Template/Admin/Vehicles/edit.ctp:39
+msgid "Save"
+msgstr "salvar"
+
+#: Template/Admin/Categories/edit.ctp:4
+#: Template/Admin/Categories/index.ctp:44
+#: Template/Admin/Categories/view.ctp:142
+#: Template/Admin/ImagesVehicle/edit.ctp:4
+#: Template/Admin/ImagesVehicle/index.ctp:46
+#: Template/Admin/News/edit.ctp:4
+#: Template/Admin/News/index.ctp:46
+#: Template/Admin/Noticias/index.ctp:38
+#: Template/Admin/Roles/index.ctp:34
+#: Template/Admin/Users/edit.ctp:4
+#: Template/Admin/Users/index.ctp:50
+#: Template/Admin/Vehicles/edit.ctp:4
+#: Template/Admin/Vehicles/index.ctp:54
+#: Template/Admin/Vehicles/view.ctp:121
+#: Template/Galerias/index.ctp:36
+#: Template/Galerias/view.ctp:59
+#: Template/Images/index.ctp:38
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Admin/Categories/index.ctp:5
+#: Template/Admin/ImagesVehicle/index.ctp:5
+#: Template/Admin/News/index.ctp:5
+#: Template/Admin/Users/index.ctp:5
+#: Template/Admin/Vehicles/index.ctp:5
+msgid "New"
+msgstr "Cadastrar"
+
+#: Template/Admin/Categories/index.ctp:15
+#: Template/Admin/ImagesVehicle/index.ctp:15
+#: Template/Admin/News/index.ctp:15
+#: Template/Admin/Users/index.ctp:15
+#: Template/Admin/Vehicles/index.ctp:15
+msgid "List of"
+msgstr "Lista de"
+
+#: Template/Admin/Categories/index.ctp:19
+#: Template/Admin/ImagesVehicle/index.ctp:19
+#: Template/Admin/News/index.ctp:19
+#: Template/Admin/Users/index.ctp:19
+#: Template/Admin/Vehicles/index.ctp:19
+msgid "Fill in to start search"
+msgstr ""
+
+#: Template/Admin/Categories/index.ctp:21
+#: Template/Admin/ImagesVehicle/index.ctp:21
+#: Template/Admin/News/index.ctp:21
+#: Template/Admin/Users/index.ctp:21
+#: Template/Admin/Vehicles/index.ctp:21
+msgid "Filter"
+msgstr ""
+
+#: Template/Admin/Categories/index.ctp:34
+#: Template/Admin/Categories/view.ctp:100
+#: Template/Admin/ImagesVehicle/index.ctp:35
+#: Template/Admin/News/index.ctp:35
+#: Template/Admin/Noticias/add.ctp:9
+#: Template/Admin/Noticias/edit.ctp:9
+#: Template/Admin/Noticias/index.ctp:9;24
+#: Template/Admin/Noticias/view.ctp:9
+#: Template/Admin/Roles/add.ctp:9
+#: Template/Admin/Roles/edit.ctp:9
+#: Template/Admin/Roles/index.ctp:9;22
+#: Template/Admin/Roles/view.ctp:9
+#: Template/Admin/Users/change_password.ctp:7
+#: Template/Admin/Users/index.ctp:37
+#: Template/Admin/Users/login.ctp:9
+#: Template/Admin/Users/remember_password.ctp:10
+#: Template/Admin/Users/report.ctp:9
+#: Template/Admin/Vehicles/index.ctp:39
+#: Template/Admin/Vehicles/view.ctp:99
+#: Template/Galerias/add.ctp:9
+#: Template/Galerias/edit.ctp:9
+#: Template/Galerias/index.ctp:9;24
+#: Template/Galerias/view.ctp:9;48
+#: Template/Images/add.ctp:9
+#: Template/Images/edit.ctp:9
+#: Template/Images/index.ctp:9;25
+#: Template/Images/view.ctp:9
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Admin/Categories/index.ctp:43
+#: Template/Admin/Categories/view.ctp:140
+#: Template/Admin/ImagesVehicle/index.ctp:45
+#: Template/Admin/News/index.ctp:45
+#: Template/Admin/Noticias/index.ctp:37
+#: Template/Admin/Roles/index.ctp:33
+#: Template/Admin/Users/index.ctp:49
+#: Template/Admin/Vehicles/index.ctp:53
+#: Template/Admin/Vehicles/view.ctp:119
+#: Template/Galerias/index.ctp:35
+#: Template/Galerias/view.ctp:58
+#: Template/Images/index.ctp:37
+msgid "View"
+msgstr "Ver"
+
+#: Template/Admin/Categories/index.ctp:45
+#: Template/Admin/Categories/view.ctp:144
+#: Template/Admin/ImagesVehicle/index.ctp:47
+#: Template/Admin/News/index.ctp:47
+#: Template/Admin/Noticias/edit.ctp:11
+#: Template/Admin/Noticias/index.ctp:39
+#: Template/Admin/Roles/edit.ctp:11
+#: Template/Admin/Roles/index.ctp:35
+#: Template/Admin/Users/index.ctp:51
+#: Template/Admin/Vehicles/index.ctp:55
+#: Template/Admin/Vehicles/view.ctp:123
+#: Template/Galerias/edit.ctp:11
+#: Template/Galerias/index.ctp:37
+#: Template/Galerias/view.ctp:60
+#: Template/Images/edit.ctp:11
+#: Template/Images/index.ctp:39
+msgid "Delete"
+msgstr "Deletar"
+
+#: Template/Admin/Categories/index.ctp:45
+#: Template/Admin/ImagesVehicle/index.ctp:47
+#: Template/Admin/News/index.ctp:47
+#: Template/Admin/Users/index.ctp:51
+#: Template/Admin/Vehicles/index.ctp:55
+msgid "Confirm to delete this entry?"
+msgstr "Tem certeza que deseja deletar esta entrada?"
+
+#: Template/Admin/Categories/view.ctp:3
+#: Template/Admin/Vehicles/view.ctp:36
+msgid "Category"
+msgstr "Categoria"
+
+#: Template/Admin/Categories/view.ctp:19
+#: Template/Admin/ImagesVehicle/view.ctp:19
+#: Template/Admin/News/view.ctp:19
+#: Template/Admin/Users/view.ctp:19
+#: Template/Admin/Vehicles/view.ctp:19
+msgid "Information"
+msgstr "Informação"
+
+#: Template/Admin/Categories/view.ctp:24
+#: Template/Admin/News/view.ctp:24
+#: Template/Galerias/view.ctp:22
+msgid "Title"
+msgstr "Titulo"
+
+#: Template/Admin/Categories/view.ctp:48
+#: Template/Admin/Vehicles/view.ctp:72
+msgid "Related {0}"
+msgstr "Relacionado {0}"
+
+#: Template/Admin/Categories/view.ctp:144
+#: Template/Admin/Noticias/edit.ctp:13
+#: Template/Admin/Noticias/index.ctp:39
+#: Template/Admin/Noticias/view.ctp:11
+#: Template/Admin/Roles/edit.ctp:13
+#: Template/Admin/Roles/index.ctp:35
+#: Template/Admin/Roles/view.ctp:11
+#: Template/Admin/Vehicles/view.ctp:123
+#: Template/Galerias/edit.ctp:13
+#: Template/Galerias/index.ctp:37
+#: Template/Galerias/view.ctp:11;60
+#: Template/Images/edit.ctp:13
+#: Template/Images/index.ctp:39
+#: Template/Images/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Você tem certeza que deseja deletar #{0}?"
+
+#: Template/Admin/ImagesVehicle/view.ctp:3
+msgid "Images Vehicle"
+msgstr "Imagens dos veiculos"
+
+#: Template/Admin/ImagesVehicle/view.ctp:24
+#: Template/Admin/News/view.ctp:28
+#: Template/Admin/Noticias/view.ctp:28
+#: Template/Galerias/view.ctp:44
+#: Template/Images/view.ctp:22
+msgid "Image"
+msgstr "Imagens"
+
+#: Template/Admin/ImagesVehicle/view.ctp:28
+#: Template/Admin/Vehicles/view.ctp:3
+msgid "Vehicle"
+msgstr "Veiculos"
+
+#: Template/Admin/News/view.ctp:3
+msgid "News"
+msgstr "Noticias"
+
+#: Template/Admin/News/view.ctp:37
+msgid "Description"
+msgstr "Descrição"
+
+#: Template/Admin/Noticias/add.ctp:10
+#: Template/Admin/Noticias/edit.ctp:16
+#: Template/Admin/Noticias/view.ctp:12
+msgid "List Noticias"
+msgstr "Listar noticias"
+
+#: Template/Admin/Noticias/add.ctp:16
+msgid "Add Noticia"
+msgstr "Cadastrar noticia"
+
+#: Template/Admin/Noticias/add.ctp:23
+#: Template/Admin/Noticias/edit.ctp:29
+#: Template/Admin/Roles/add.ctp:21
+#: Template/Admin/Roles/edit.ctp:27
+#: Template/Admin/Users/change_password.ctp:22
+#: Template/Admin/Users/login.ctp:28
+#: Template/Admin/Users/remember_password.ctp:22
+#: Template/Galerias/add.ctp:23
+#: Template/Galerias/edit.ctp:29
+#: Template/Images/add.ctp:24
+#: Template/Images/edit.ctp:30
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Admin/Noticias/edit.ctp:22
+#: Template/Admin/Noticias/view.ctp:10
+msgid "Edit Noticia"
+msgstr "Editar noticia"
+
+#: Template/Admin/Noticias/index.ctp:10
+#: Template/Admin/Noticias/view.ctp:13
+msgid "New Noticia"
+msgstr "Nova noticia"
+
+#: Template/Admin/Noticias/index.ctp:14
+msgid "Noticias"
+msgstr "Noticias"
+
+#: Template/Admin/Noticias/index.ctp:47
+#: Template/Admin/Roles/index.ctp:43
+#: Template/Galerias/index.ctp:45
+#: Template/Images/index.ctp:47
+msgid "first"
+msgstr "Primeiro"
+
+#: Template/Admin/Noticias/index.ctp:48
+#: Template/Admin/Roles/index.ctp:44
+#: Template/Galerias/index.ctp:46
+#: Template/Images/index.ctp:48
+msgid "previous"
+msgstr "anterior"
+
+#: Template/Admin/Noticias/index.ctp:50
+#: Template/Admin/Roles/index.ctp:46
+#: Template/Galerias/index.ctp:48
+#: Template/Images/index.ctp:50
+msgid "next"
+msgstr "proximo"
+
+#: Template/Admin/Noticias/index.ctp:51
+#: Template/Admin/Roles/index.ctp:47
+#: Template/Galerias/index.ctp:49
+#: Template/Images/index.ctp:51
+msgid "last"
+msgstr "último"
+
+#: Template/Admin/Noticias/index.ctp:53
+#: Template/Admin/Roles/index.ctp:49
+#: Template/Galerias/index.ctp:51
+#: Template/Images/index.ctp:53
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registros(s) de um {{count}} total"
+
+#: Template/Admin/Noticias/view.ctp:11
+msgid "Delete Noticia"
+msgstr "Deletar noticia"
+
+#: Template/Admin/Noticias/view.ctp:20
+msgid "Titulo"
+msgstr "Titulo"
+
+#: Template/Admin/Noticias/view.ctp:24
+msgid "Descricao"
+msgstr "Descricao"
+
+#: Template/Admin/Noticias/view.ctp:32
+#: Template/Admin/Roles/view.ctp:24
+#: Template/Admin/Users/report.ctp:43
+#: Template/Galerias/view.ctp:26;43
+#: Template/Images/view.ctp:30
+msgid "Id"
+msgstr "#"
+
+#: Template/Admin/Noticias/view.ctp:36
+#: Template/Admin/Roles/view.ctp:28
+#: Template/Admin/Users/report.ctp:47
+#: Template/Galerias/view.ctp:30;46
+#: Template/Images/view.ctp:34
+msgid "Created"
+msgstr "Criado em"
+
+#: Template/Admin/Noticias/view.ctp:40
+#: Template/Admin/Roles/view.ctp:32
+#: Template/Admin/Users/report.ctp:51
+#: Template/Galerias/view.ctp:34;47
+#: Template/Images/view.ctp:38
+msgid "Modified"
+msgstr "Modificado em"
+
+#: Template/Admin/Roles/add.ctp:10
+#: Template/Admin/Roles/edit.ctp:16
+#: Template/Admin/Roles/view.ctp:12
+#: Template/Admin/Users/change_password.ctp:9
+msgid "List Roles"
+msgstr ""
+
+#: Template/Admin/Roles/add.ctp:16
+msgid "Add Role"
+msgstr ""
+
+#: Template/Admin/Roles/edit.ctp:22
+#: Template/Admin/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr ""
+
+#: Template/Admin/Roles/index.ctp:10
+#: Template/Admin/Roles/view.ctp:13
+msgid "New Role"
+msgstr ""
+
+#: Template/Admin/Roles/index.ctp:14
+msgid "Roles"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:20
+#: Template/Admin/Users/report.ctp:39
+msgid "Role"
+msgstr ""
+
+#: Template/Admin/Users/change_password.ctp:8
+msgid "List User"
+msgstr "Listar usuarios"
+
+#: Template/Admin/Users/change_password.ctp:15
+msgid "Change Password"
+msgstr "Alterar senha"
+
+#: Template/Admin/Users/login.ctp:11
+#: Template/Admin/Users/remember_password.ctp:11
+#: Template/Admin/Users/report.ctp:12
+msgid "New User"
+msgstr "Novo usuário"
+
+#: Template/Admin/Users/login.ctp:12
+#: Template/Admin/Users/remember_password.ctp:17
+msgid "Remember Password"
+msgstr "Lembrar senha"
+
+#: Template/Admin/Users/login.ctp:19
+msgid "Login"
+msgstr "Login"
+
+#: Template/Admin/Users/report.ctp:11
+msgid "List Users"
+msgstr "Listar Usuarios"
+
+#: Template/Admin/Users/report.ctp:23
+#: Template/Admin/Users/view.ctp:24
+#: Template/Admin/Vehicles/view.ctp:24
+msgid "Name"
+msgstr "Nome"
+
+#: Template/Admin/Users/report.ctp:27
+#: Template/Admin/Users/view.ctp:28
+msgid "Username"
+msgstr "Usuário"
+
+#: Template/Admin/Users/report.ctp:31
+#: Template/Admin/Users/view.ctp:32
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/Admin/Users/report.ctp:35
+msgid "Password"
+msgstr "Senha"
+
+#: Template/Admin/Users/view.ctp:3
+msgid "User"
+msgstr "Usuário"
+
+#: Template/Admin/Vehicles/view.ctp:28
+msgid "Brand"
+msgstr "Marca"
+
+#: Template/Admin/Vehicles/view.ctp:32
+msgid "Model"
+msgstr "Modelo"
+
+#: Template/Admin/Vehicles/view.ctp:42
+msgid "Value"
+msgstr "Valor"
+
+#: Template/Admin/Vehicles/view.ctp:46
+msgid "Year"
+msgstr "Ano"
+
+#: Template/Admin/Vehicles/view.ctp:53
+msgid "Details"
+msgstr "Detalhes"
+
+#: Template/Galerias/add.ctp:10
+#: Template/Galerias/edit.ctp:16
+#: Template/Galerias/view.ctp:12
+#: Template/Images/add.ctp:11
+#: Template/Images/edit.ctp:17
+#: Template/Images/index.ctp:11
+#: Template/Images/view.ctp:14
+msgid "List Galerias"
+msgstr "Listar galerias"
+
+#: Template/Galerias/add.ctp:11
+#: Template/Galerias/edit.ctp:17
+#: Template/Galerias/index.ctp:11
+#: Template/Galerias/view.ctp:14
+#: Template/Images/add.ctp:10
+#: Template/Images/edit.ctp:16
+#: Template/Images/view.ctp:12
+msgid "List Images"
+msgstr "Listar imagens"
+
+#: Template/Galerias/add.ctp:12
+#: Template/Galerias/edit.ctp:18
+#: Template/Galerias/index.ctp:12
+#: Template/Galerias/view.ctp:15
+#: Template/Images/index.ctp:10
+#: Template/Images/view.ctp:13
+msgid "New Image"
+msgstr "Nova imagem"
+
+#: Template/Galerias/add.ctp:18
+msgid "Add Galeria"
+msgstr "Cadastrar galeria"
+
+#: Template/Galerias/edit.ctp:24
+#: Template/Galerias/view.ctp:10
+msgid "Edit Galeria"
+msgstr "Editar Galeria"
+
+#: Template/Galerias/index.ctp:10
+#: Template/Galerias/view.ctp:13
+#: Template/Images/add.ctp:12
+#: Template/Images/edit.ctp:18
+#: Template/Images/index.ctp:12
+#: Template/Images/view.ctp:15
+msgid "New Galeria"
+msgstr "Nova galeria"
+
+#: Template/Galerias/index.ctp:16
+msgid "Galerias"
+msgstr ""
+
+#: Template/Galerias/view.ctp:11
+msgid "Delete Galeria"
+msgstr ""
+
+#: Template/Galerias/view.ctp:39
+msgid "Related Images"
+msgstr ""
+
+#: Template/Galerias/view.ctp:45
+msgid "Galeria Id"
+msgstr ""
+
+#: Template/Images/add.ctp:18
+msgid "Add Image"
+msgstr ""
+
+#: Template/Images/edit.ctp:24
+#: Template/Images/view.ctp:10
+msgid "Edit Image"
+msgstr ""
+
+#: Template/Images/index.ctp:16
+msgid "Images"
+msgstr ""
+
+#: Template/Images/view.ctp:11
+msgid "Delete Image"
+msgstr ""
+
+#: Template/Images/view.ctp:26
+msgid "Galeria"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+

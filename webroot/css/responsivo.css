@@ -1,0 +1,382 @@
+@media (max-width: 480px) {
+ /*celular vertical*/
+
+ .descricao-header-subs{
+ 	margin-top: 
+ }
+
+ .descricao-header-2 .botao{
+ 	margin-bottom: 100px;
+ }
+.background-jornada{
+	
+}
+.marginb{
+	margin-bottom: initial !important;
+}
+
+.quadro-destaque{
+	padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+
+.destaques,
+.destaques-2,
+.destaques-3,
+.destaques-4{
+  min-height: initial !important;
+}
+
+
+ .descricao-header h2{
+ 	font-size: 40px;
+ }
+ .tamanho-internas {
+
+    font-size: 40px !important;
+   
+  
+    position: relative;
+ }
+
+.descricao-header-interna{
+	
+}
+
+.destaques-box{
+	top: initial;
+}
+
+ .botao-home,
+ .fundo-header-img-int,
+ .descricao-header-interna{
+ 	display: none;
+ }
+
+ .logo-subfooter{
+ 	margin: 20px 0px;
+ }
+
+ .sobre,
+ .quadros,
+ .box-work,
+ .texto-blog,
+ .footer-box{
+ 	margin-top: 50px;
+ }
+
+ .link-footer{
+ 	padding-top: initial;
+ }
+
+ .box-form .botao{
+ 	margin-top: 100px;
+ }
+
+ .descricao-header{
+ 	/*position: relative !important;*/
+ 	border-radius: initial;
+ 	/*background: #412c6a;*/
+ }
+ .logo-amora{
+ 	margin-left: 25%;
+ }
+
+ .redes-sociais{
+ 	    text-align: center;
+    top: -30px;
+ }
+
+ .menu{
+ 	position: relative !important;
+ }
+
+
+.navbar-nav li a{
+	
+}
+
+#navbar{
+	
+}
+
+.navbar-default{
+	top: -30px !important;
+	background-color: initial !important;
+	background-image: none;
+}
+
+.navbar-default .navbar-toggle{
+
+}
+
+.navbar-toggle{
+	
+}
+
+.navbar-header button{
+	
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	
+}
+
+
+}
+@media (min-width:481px) and (max-width: 767px) {  
+ .descricao-header-2 .botao{
+ 	margin-bottom: 100px;
+ }
+.background-jornada{
+	
+}
+.marginb{
+	margin-bottom: initial !important;
+}
+
+.quadro-destaque{
+	padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+
+.destaques,
+.destaques-2,
+.destaques-3,
+.destaques-4{
+  min-height: initial !important;
+}
+
+
+ .descricao-header h2{
+ 	font-size: 40px;
+ }
+ .tamanho-internas {
+
+    font-size: 40px !important;
+   
+  
+    position: relative;
+ }
+
+.descricao-header-interna{
+	
+}
+
+.destaques-box{
+	top: initial;
+}
+
+ .botao-home,
+ .fundo-header-img-int,
+ .descricao-header-interna{
+ 	display: none;
+ }
+
+ .logo-subfooter{
+ 	margin: 20px 0px;
+ }
+
+ .sobre,
+ .quadros,
+ .box-work,
+ .texto-blog,
+ .footer-box{
+ 	margin-top: 50px;
+ }
+
+ .link-footer{
+ 	padding-top: initial;
+ }
+
+ .box-form .botao{
+ 	margin-top: 100px;
+ }
+
+ .descricao-header{
+ 	/*position: relative !important;*/
+ 	border-radius: initial;
+ 	/*background: #412c6a;*/
+ }
+ .logo-amora{
+ 	margin-left: 25%;
+ }
+
+ .redes-sociais{
+ 	    text-align: center;
+    top: -30px;
+ }
+
+ .menu{
+ 	position: relative !important;
+ }
+
+
+.navbar-nav li a{
+	
+}
+
+#navbar{
+	
+}
+
+.navbar-default{
+	top: -30px !important;
+	background-color: initial !important;
+	background-image: none;
+}
+
+.navbar-default .navbar-toggle{
+
+}
+
+.navbar-toggle{
+	
+}
+
+.navbar-header button{
+	
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+	 .descricao-header-2 .botao{
+ 	margin-bottom: 100px;
+ }
+.background-jornada{
+	
+}
+.marginb{
+	margin-bottom: initial !important;
+}
+
+.quadro-destaque{
+	padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+
+.destaques,
+.destaques-2,
+.destaques-3,
+.destaques-4{
+  min-height: initial !important;
+}
+
+
+ .descricao-header h2{
+ 	font-size: 40px;
+ }
+ .tamanho-internas {
+
+    font-size: 40px !important;
+   
+  
+    position: relative;
+ }
+
+.descricao-header-interna{
+	
+}
+
+.destaques-box{
+	top: initial;
+}
+
+ .botao-home,
+ .fundo-header-img-int,
+ .descricao-header-interna{
+ 	display: none;
+ }
+
+ .logo-subfooter{
+ 	margin: 20px 0px;
+ }
+
+ .sobre,
+ .quadros,
+ .box-work,
+ .texto-blog,
+ .footer-box{
+ 	margin-top: 50px;
+ }
+
+ .link-footer{
+ 	padding-top: initial;
+ }
+
+ .box-form .botao{
+ 	margin-top: 100px;
+ }
+
+ .descricao-header{
+ 	/*position: relative !important;*/
+ 	border-radius: initial;
+ 	/*background: #412c6a;*/
+ }
+ .logo-amora{
+ 	margin-left: 25%;
+ }
+
+ .redes-sociais{
+ 	    text-align: center;
+    top: -30px;
+ }
+
+ .menu{
+ 	position: relative !important;
+ }
+
+
+.navbar-nav li a{
+	
+}
+
+#navbar{
+	
+}
+
+.navbar-default{
+	top: -30px !important;
+	background-color: initial !important;
+	background-image: none;
+}
+
+.navbar-default .navbar-toggle{
+
+}
+
+.navbar-toggle{
+	
+}
+
+.navbar-header button{
+	
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	
+}
+
+}
+
+@media (min-width: 979px) and (max-width: 1199px) {
+    
+    /*tablet horizontal*/
+    
+
+@media (min-width: 1200px) { 
+   
+
+
+}
+
+
