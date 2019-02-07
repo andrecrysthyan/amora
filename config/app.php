@@ -9,7 +9,7 @@ return [
      * Development Mode:
      * true: Errors and warnings shown.
      */
-    'debug' =>0,
+    'debug' =>1,
 
     /**
      * Configure basic information about the application.
